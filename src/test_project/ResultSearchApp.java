@@ -49,4 +49,9 @@ public class ResultSearchApp {
 
         return "Failed";
     }
+    
+    private void Sysout() {
+		// TODO Auto-generated method stub
+
+	}
 }
