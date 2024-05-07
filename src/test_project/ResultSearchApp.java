@@ -54,4 +54,10 @@ public class ResultSearchApp {
 		// TODO Auto-generated method stub
 
 	}
+    
+    private void Sysnewt() {
+		// TODO Auto-generated method stub
+
+	}
+    
 }
